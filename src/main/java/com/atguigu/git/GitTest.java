@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master test!");
         System.out.println("hot-fix test!");
         System.out.println("it`s day in 2023/06/22!");
+        System.out.println("it`s day in 2023/06/22 second!");
     }
 }
